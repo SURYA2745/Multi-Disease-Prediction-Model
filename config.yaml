@@ -1,0 +1,30 @@
+credentials:
+  usernames:
+    surya@gmail.com:
+      email: surya@gmail.com
+      name: SURYA TEJA
+      password: surya123 
+    dinesh@gmail.com:
+      email: dinesh@gmail.com
+      name: DINESH KESA
+      password: dinesh123 
+    rahul@gmail.com:
+      email: rahul@gmail.com
+      name: C N RAHUL
+      password: rahul123
+    vamsi@gmail.com:
+      email: vamsi@gmail.com
+      name: VAMSI REDDY
+      password: vamsi123 
+    ravi@gmail.com:
+      email: ravi@gmail.com
+      name: ravi
+      password: ravi123 
+cookie:
+  expiry_days: 150
+  key: random_signature_key 
+  name: random_cookie_name
+preauthorized:
+  emails:
+  - melsby@gmail.com
+
